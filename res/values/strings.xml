@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Network Mode</string>
+    <string name="app_info">Select Preferred Network Mode - Ather</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
